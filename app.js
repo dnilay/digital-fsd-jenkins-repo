@@ -7,7 +7,7 @@ app.listen(3000,(err)=>{
 
     if ((!err))
     {
-        console.log('server started');
+        console.log(' node server started successfully');
     }
     else
     {
