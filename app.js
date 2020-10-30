@@ -11,6 +11,7 @@ app.listen(3000,(err)=>{
     }
     else
     {
+        // console log
         console.log('error connecting sever',err);
     }
 });
